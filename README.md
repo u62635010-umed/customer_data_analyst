@@ -60,20 +60,9 @@ Each row represents user activity at different stages.
 * ✅ Simplify checkout process to reduce friction
 * ✅ Offer limited-time discounts or incentives
 * ✅ Add trust signals (secure payment badges, return policy)
-* ✅ Use retargeting strategies for users who abandon carts
+* ✅ Use retargeting strategies for users who abandon cart
 
 ---
-
-## 📊 Visualization
-
-(Add your dashboard or funnel chart screenshot here)
-
-Example:
-
-![Funnel Dashboard](funnel_dashboard.png)
-
----
-
 ## 🎯 Project Impact
 
 This analysis helps businesses:
